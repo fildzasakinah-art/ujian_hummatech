@@ -31,7 +31,7 @@
                     Cukup percayakan pakaian Anda kepada kami, dan nikmati hari Anda tanpa repot.
                     Didukung oleh tim profesional, kami memastikan setiap helai pakaian Anda kembali bersih, wangi, dan rapi seperti baru.
                     Kami siap merawat pakaian kesayangan Anda dan keluarga agar tetap awet dan bersih maksimal.
-                 </p>
+                </p>
             </div>
 </section>
 
